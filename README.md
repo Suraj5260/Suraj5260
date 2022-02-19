@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suraj5260
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning dsa , sql and powerbi
+- 👀 I’m interested in data science / Full stack web developer.
+- 🌱 I’m currently learning html,css etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my email:suraj.telrandhe16@gmail.com
 
