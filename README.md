@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/SurajXD-red)](https://www.youtube.com/channel/UCq45UxdARXCpecnV_zwQ-Bg)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-SurajXD-red)](https://www.youtube.com/channel/UCq45UxdARXCpecnV_zwQ-Bgl)
 [![Linkedin Badge](https://img.shields.io/badge/-Suraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/suraj-t/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Suraj-yellow)](https://stackoverflow.com/users/18292122/suraj5260-)
